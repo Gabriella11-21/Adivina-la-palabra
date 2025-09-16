@@ -1,4 +1,4 @@
-# Adivina-la-palabra (CLI)
+# Adivina la palabra (CLI)
 Este proyecto es un juego sencillo en **Python** que se ejecuta desde la **línea de comandos (CLI)**.  
 El jugador debe adivinar una palabra secreta letra por letra con un número limitado de intentos.  
 
