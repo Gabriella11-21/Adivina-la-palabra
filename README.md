@@ -1,2 +1,2 @@
-# Adivina-la-palabra
-AAAA
+# Adivina-la-palabra (CLI)
+Este proyecto es una aplicación sencilla desarrollada en Python que funciona desde la línea de comandos (CLI). Su objetivo es demostrar cómo se puede interactuar con un programa sin necesidad de interfaces gráficas, utilizando únicamente texto. El código es ligero, fácil de comprender y está pensado como ejemplo introductorio para practicar programación básica, manejo de entrada del usuario y lógica de control.
